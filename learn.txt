@@ -1,3 +1,2 @@
-hello world
-I wan't to use git
-I don't no how to use
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
